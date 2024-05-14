@@ -1,0 +1,4 @@
+category: 限选
+module: 智能检测
+semester: 第三学年春季
+name: 机器视觉
