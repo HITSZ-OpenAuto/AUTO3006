@@ -1,1 +1,0 @@
-贡献者：[hoshino](https://github.com/hoshino-lr)
