@@ -1,0 +1,201 @@
+ID: "AUTO3006"
+SimilarID: []
+Name: "机器视觉"
+CourseProperty:
+  - Major:
+      - Year: "2019_2020"
+        Name: ["自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "AUTO3006"
+    CourseName: "机器视觉"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "考勤"
+        Percentage: "5"
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "课设"
+        Percentage: "25"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2020_2021"
+        Name: ["自动化", "自动化（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "AUTO3006"
+    CourseName: "机器视觉"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "考勤"
+        Percentage: "5"
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "课设"
+        Percentage: "25"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2021_2022"
+        Name: ["自动化", "自动化（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "AUTO3006"
+    CourseName: "机器视觉"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "考勤"
+        Percentage: "5"
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "课设"
+        Percentage: "25"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2022_2023"
+        Name: ["自动化", "自动化（第二学位）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "AUTO3006"
+    CourseName: "机器视觉"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "考勤"
+        Percentage: "5"
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "课设"
+        Percentage: "25"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2023_2024"
+        Name: ["自动化（第二学士学位）", "自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: ""
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "AUTO3006"
+    CourseName: "机器视觉"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "考勤"
+        Percentage: "5"
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "课设"
+        Percentage: "25"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
+
+  - Major:
+      - Year: "2024_2025"
+        Name: ["自动化"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "春"
+    CourseType: "限选"
+    CourseID: "AUTO3006"
+    CourseName: "机器视觉"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "考勤"
+        Percentage: "5"
+      - Name: "作业"
+        Percentage: "10"
+      - Name: "实验"
+        Percentage: "20"
+      - Name: "课设"
+        Percentage: "25"
+      - Name: "期末考试"
+        Percentage: "40"
+    CourseHourComposition:
+      - Name: ""
+        Hour: ""
