@@ -13,6 +13,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 吴晓军
   <!-- TOML-ITEM: id="review-吴晓军-1" -->
   - 授课风格：读ppt
