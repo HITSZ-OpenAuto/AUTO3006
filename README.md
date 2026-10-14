@@ -1,13 +1,5 @@
 # AUTO3006 - 机器视觉
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![考勤5%](https://img.shields.io/badge/考勤-5%25-wheat)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![实验20%](https://img.shields.io/badge/实验-20%25-wheat)
-![课设25%](https://img.shields.io/badge/课设-25%25-wheat)
-![期末考试40%](https://img.shields.io/badge/期末考试-40%25-wheat)
 
 机器视觉课程资料。
 
