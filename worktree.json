@@ -10,9 +10,9 @@
     "hash": "298d96176ade56293ba8a8b36bdda25c0e5bcc3e"
   },
   "README.md": {
-    "size": 2375,
-    "time": 1791961329,
-    "hash": "d7e74bde38be9caa0914ea317bebfeba434306e8"
+    "size": 3006,
+    "time": 1795393366,
+    "hash": "44c4c96d0ae949bc44512d95d8bbd17652759b2e"
   },
   "assignments/.gitkeep": {
     "size": 0,
@@ -329,6 +329,36 @@
     "time": 1737706633,
     "hash": "a3c6eb5909228ac05e2a4e3c8c12a3fe6de55bfa"
   },
+  "assignments/2026_BCC/作业1.pdf": {
+    "size": 100357,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
+  "assignments/2026_BCC/作业2.pdf": {
+    "size": 1041645,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
+  "assignments/2026_BCC/作业3.pdf": {
+    "size": 1859144,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
+  "assignments/2026_BCC/作业4.pdf": {
+    "size": 750546,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
+  "assignments/2026_BCC/作业6.pdf": {
+    "size": 1938942,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
+  "assignments/2026_BCC/作业7.pdf": {
+    "size": 304217,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
   "course_design/2023_Sieroy/CMakeLists.txt": {
     "size": 344,
     "time": 1737706633,
@@ -439,6 +469,11 @@
     "time": 1737706633,
     "hash": "a3c6eb5909228ac05e2a4e3c8c12a3fe6de55bfa"
   },
+  "course_design/2026_BCC_HuangYiguo_topic1/课程设计报告_课题1_黄益国_卞常灿.docx": {
+    "size": 3441997,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
   "exams/.gitkeep": {
     "size": 0,
     "time": 1737636038,
@@ -478,6 +513,31 @@
     "size": 3166299,
     "time": 1737706633,
     "hash": "a3c6eb5909228ac05e2a4e3c8c12a3fe6de55bfa"
+  },
+  "labs/2026/2026-BCC_机器视觉实验报告_带注释HALCON代码.pdf": {
+    "size": 168756,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
+  "labs/2026/manual/机器视觉-实验一（2026）.pdf": {
+    "size": 4733044,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
+  "labs/2026/manual/机器视觉-实验三（2026）.pdf": {
+    "size": 3380836,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
+  "labs/2026/manual/机器视觉-实验二（2026）.pdf": {
+    "size": 3237359,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
+  },
+  "labs/2026/manual/机器视觉-实验四（2026）.pdf": {
+    "size": 3269902,
+    "time": 1795393351,
+    "hash": "82fd0b0c031e4c57947ffdf1c21c51079beb71ad"
   },
   "notes/.gitkeep": {
     "size": 0,
@@ -610,8 +670,8 @@
     "hash": "298d96176ade56293ba8a8b36bdda25c0e5bcc3e"
   },
   "readme.toml": {
-    "size": 2393,
-    "time": 1773427947,
-    "hash": "cb9a844a26dc949c28b1cf2b81367c23d3f6afa6"
+    "size": 3019,
+    "time": 1795393366,
+    "hash": "44c4c96d0ae949bc44512d95d8bbd17652759b2e"
   }
 }
